@@ -52,20 +52,22 @@ const Banner = () => {
           />
         </div>
       </div>
-      <div className="p-20 bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] text-white text-center space-y-5">
-        <h2 className="text-5xl font-semibold">Trusted by Millions, Built for You</h2>
-        <div className="flex justify-center gap-7">
-          <div className="space-y-4 font-light">
+      <div className="p-20 bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] text-white text-center space-y-6">
+        <h2 className="text-5xl font-semibold">
+          Trusted by Millions, Built for You
+        </h2>
+        <div className="flex justify-center gap-7 flex-col md:flex-row">
+          <div className="space-y-3 font-light">
             <p>Total Downloads</p>
             <h2 className="text-5xl font-bold">29.6M</h2>
             <p>21% more than last month</p>
           </div>
-          <div className="space-y-4 font-light">
+          <div className="space-y-3 font-light">
             <p>Total Downloads</p>
             <h2 className="text-5xl font-bold">29.6M</h2>
             <p>21% more than last month</p>
           </div>
-          <div className="space-y-4 font-light">
+          <div className="space-y-3 font-light">
             <p>Total Downloads</p>
             <h2 className="text-5xl font-bold">29.6M</h2>
             <p>21% more than last month</p>
