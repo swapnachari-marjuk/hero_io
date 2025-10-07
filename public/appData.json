@@ -1,0 +1,497 @@
+[
+  {
+    "image": "https://i.ibb.co.com/JwKnB69D/data-img-1.jpg",
+    "title": "Cosmic Explorer",
+    "companyName": "StarGazer Labs",
+    "id": 1001,
+    "description": "Embark on an unparalleled virtual journey through the observable universe. Cosmic Explorer uses real-time astronomical data to render a stunning 3D model of the cosmos, including over 100,000 stars, all major constellations, and deep-sky objects like nebulae and galaxies. Use the AR mode to point your phone at the night sky and instantly identify celestial bodies. Features include guided tours of the solar system, historical facts about Greek mythology constellations, and a 'time travel' feature to see the sky as it appeared centuries ago. Perfect for amateur astronomers and curious minds alike.",
+    "size": 75,
+    "reviews": 1540,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 90
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 750
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sJkRgbzh/data-img-2.png",
+    "title": "Pixel Painter Pro",
+    "companyName": "Artisanal Apps",
+    "id": 1002,
+    "description": "Unleash your creative potential with Pixel Painter Pro, the definitive digital art studio designed for touchscreens. This app boasts an extensive library of over 200 customizable brushes, layers with blending modes, and a powerful color mixer that supports CMYK and RGB. It features an innovative 'Symmetry Mode' for radial and kaleidoscope effects, and supports high-resolution canvases up to 8K. Whether you're a professional illustrator, a comic artist, or just sketching for fun, this tool offers the power of desktop software in a portable package. Export your work directly to PSD, PNG, or JPEG.",
+    "size": 120,
+    "reviews": 3450,
+    "ratingAvg": 4.8,
+    "downloads": 150000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 70
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 2300
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/x8DyrX7R/data-img-3.jpg",
+    "title": "Zen Garden Planner",
+    "companyName": "Tranquility Tech",
+    "id": 1003,
+    "description": "Escape the chaos of daily life by designing your personal, virtual Zen Garden. This therapeutic and creative planning tool allows users to meticulously place and rake sand, arrange rocks (Ishi), and position miniature elements like bridges and moss (Shita). Choose from various themes—from classic Karesansui (dry landscape) to more modern interpretations. The app includes a relaxing ambient sound generator (water features, wind chimes) and a 'Daily Raking Challenge' to promote mindfulness. Save and share your tranquil creations with the community for inspiration.",
+    "size": 45,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 75000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 80
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 350
+      },
+      {
+        "name": "5 star",
+        "count": 280
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFFrJRkQ/data-img-4.jpg",
+    "title": "Crypto Tracker Live",
+    "companyName": "BlockChain Insights",
+    "id": 1004,
+    "description": "Your indispensable tool for navigating the volatile cryptocurrency markets. Crypto Tracker Live delivers real-time price updates for thousands of coins, comprehensive charting tools with technical indicators (like MACD, RSI, and Bollinger Bands), and a secure portfolio management feature. Set custom price alerts that trigger even when the app is closed, and track your capital gains and losses with detailed historical data. Supports all major exchanges and offers news aggregation from top financial sources to keep you informed of market-moving events.",
+    "size": 30,
+    "reviews": 5600,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 350
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 3500
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/21pHs9n6/data-img-5.jpg",
+    "title": "Recipe Remix",
+    "companyName": "Kitchen Coders",
+    "id": 1005,
+    "description": "Tired of the same old meals? Recipe Remix is a dynamically updating cookbook with over 50,000 global recipes. Its standout feature is the 'Ingredient Matcher,' where you input what you have in your fridge, and the app generates a delicious, personalized recipe. It includes step-by-step video guides, an integrated shopping list generator that organizes items by supermarket aisle, and a 'Scaling Tool' to effortlessly adjust portion sizes for any recipe. Supports imperial and metric measurements and allows users to save family recipes privately.",
+    "size": 95,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": 120000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 700
+      },
+      {
+        "name": "5 star",
+        "count": 1000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/G4kLWPzF/data-img-6.jpg",
+    "title": "Fitness Quest RPG",
+    "companyName": "Gamer Gainz Inc.",
+    "id": 1006,
+    "description": "Transform your mundane workout routine into an epic role-playing adventure. Every push-up, mile run, or minute of planks earns you Experience Points (XP) which level up your in-game avatar. Complete daily 'Quests' (e.g., drink 8 glasses of water, 30-minute cardio) to unlock new gear, skills, and boss battles (challenging workout routines). The app syncs with all major wearables, tracks your actual progress, and uses a fun, fantasy narrative to keep you motivated and committed to your long-term fitness goals. You are the hero of your own health story!",
+    "size": 88,
+    "reviews": 6700,
+    "ratingAvg": 4.9,
+    "downloads": 750000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 5000
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sJPwzTC3/data-img-7.jpg",
+    "title": "Language Leap",
+    "companyName": "Global Connect",
+    "id": 1007,
+    "description": "Break the barrier to fluency with Language Leap's immersive learning platform. We offer courses in 20+ languages, focusing on conversational proficiency from day one. Our methodology combines spaced repetition flashcards, contextual grammar lessons, and AI-powered pronunciation feedback that corrects your accent in real-time. Practice dialogues with our sophisticated chatbot designed to simulate real-life conversations like ordering coffee or giving directions. Personalized learning paths adapt to your speed and focus on vocabulary relevant to your chosen interests or profession.",
+    "size": 62,
+    "reviews": 1120,
+    "ratingAvg": 4.3,
+    "downloads": 90000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 90
+      },
+      {
+        "name": "3 star",
+        "count": 180
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 380
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gL90QZdq/data-img-8.png",
+    "title": "Budget Buddy",
+    "companyName": "Frugal Finance Co.",
+    "id": 1008,
+    "description": "Take full control of your finances without the headache. Budget Buddy automatically syncs and categorizes your bank and credit card transactions, providing a crystal-clear view of where your money goes. Create customizable 'Envelopes' for sinking funds, set monthly spending limits, and receive smart alerts before you overspend. The app generates visually compelling reports (pie charts, line graphs) to help you identify trends and includes a powerful goal-setting feature for major purchases like a house or car. All data is secured with bank-level encryption.",
+    "size": 25,
+    "reviews": 4200,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 250
+      },
+      {
+        "name": "4 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 2600
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/kgSsMFZT/data-img-9.png",
+    "title": "Photo Filter Studio",
+    "companyName": "Visual Vibe Apps",
+    "id": 1009,
+    "description": "Elevate your photography with a suite of professional editing tools. Photo Filter Studio offers over 150 unique, high-quality filters organized by genre (Portrait, Landscape, Cinematic, Vintage). Go beyond filters with manual controls for exposure, contrast, white balance, and saturation. The advanced 'Healing Brush' seamlessly removes unwanted objects, while the 'Selective Color' tool allows you to isolate and manipulate specific hues in your image. Save your favorite adjustments as reusable custom presets to streamline your workflow.",
+    "size": 150,
+    "reviews": 980,
+    "ratingAvg": 4.1,
+    "downloads": 60000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 180
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 300
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y4G2t2MH/data-img-10.jpg",
+    "title": "Sleep Sound Scapes",
+    "companyName": "Dream Weaver Labs",
+    "id": 1010,
+    "description": "Achieve deeper, more restful sleep with Sleep Sound Scapes. This app features a dynamic mixer that allows you to combine up to six different natural and synthetic sounds (e.g., rain on a tin roof, distant thunder, white noise, binaural beats) to create your perfect auditory environment. Includes a customizable sleep timer that gently fades the sound, a unique 'Smart Alarm' that wakes you during your lightest sleep phase, and special tracks specifically designed for focused work or meditation.",
+    "size": 55,
+    "reviews": 7000,
+    "ratingAvg": 4.9,
+    "downloads": 950000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 70
+      },
+      {
+        "name": "4 star",
+        "count": 1500
+      },
+      {
+        "name": "5 star",
+        "count": 5400
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XkbVRDx7/data-img-11.jpg",
+    "title": "Code Compiler Mobile",
+    "companyName": "Dev Tools Pro",
+    "id": 1011,
+    "description": "Your portable programming environment. Code Compiler Mobile supports over a dozen languages including Python, Java, C++, and JavaScript. It features a robust, syntax-highlighting editor with auto-completion, a built-in terminal for testing scripts, and cloud synchronization for your projects. Perfect for practicing coding challenges on the go or quickly testing small snippets of logic without needing a desktop. Includes offline compilation support for several key languages.",
+    "size": 110,
+    "reviews": 320,
+    "ratingAvg": 3.9,
+    "downloads": 25000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 60
+      },
+      {
+        "name": "4 star",
+        "count": 80
+      },
+      {
+        "name": "5 star",
+        "count": 90
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KzSQcbG2/data-img-12.png",
+    "title": "Vector Velocity",
+    "companyName": "Game Studio X",
+    "id": 1012,
+    "description": "A throwback to classic neon-drenched arcade shooters! Vector Velocity is a bullet-hell game with simple controls and intensely challenging boss fights across 100 unique levels. Collect power-ups to upgrade your ship's plasma cannons, deploy shield drones, and unleash devastating super attacks. The game features a retro vector graphics aesthetic, an original synthwave soundtrack, and global leaderboards to compete for the highest score.",
+    "size": 68,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 500
+      },
+      {
+        "name": "4 star",
+        "count": 3000
+      },
+      {
+        "name": "5 star",
+        "count": 5050
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HwvkgMQ/data-img-13.png",
+    "title": "Home Inventory Manager",
+    "companyName": "Organize Everything",
+    "id": 1013,
+    "description": "The essential tool for homeowners, renters, and collectors. Home Inventory Manager allows you to digitally catalog every item in your house room by room. Use the integrated camera to snap photos of items and receipts, record serial numbers, purchase dates, and warranty information. Crucially, this data is exportable as a professional PDF, making it invaluable for insurance claims or estate planning. Includes cloud backup and optional NFC tagging features for easy location tracking.",
+    "size": 40,
+    "reviews": 550,
+    "ratingAvg": 4.2,
+    "downloads": 40000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 170
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tTvsRS9m/data-img-14.jpg",
+    "title": "World Atlas 3D",
+    "companyName": "Geo-Learner Inc.",
+    "id": 1014,
+    "description": "More than just a map, World Atlas 3D is an immersive educational tool. Spin a stunning, high-resolution 3D globe with layers that toggle between political boundaries, physical geography, population density, and climate zones. Tap on any country to access detailed statistics on GDP, famous landmarks, national flags, and local time. Features a geography quiz mode to test your knowledge of capitals and flags, making learning about the world interactive and fun.",
+    "size": 250,
+    "reviews": 1800,
+    "ratingAvg": 4.8,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 1150
+      }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5h3yzVDQ/data-img-15.webp",
+    "title": "Daily Habit Tracker",
+    "companyName": "Momentum Mobile",
+    "id": 1015,
+    "description": "Unlock your potential by mastering consistent habits. Daily Habit Tracker uses the 'Seinfeld Chain' method to visually track your progress—just don't break the chain! Set daily, weekly, and monthly goals for anything from exercising to reading to meditation. The app offers insightful analytics showing your longest streaks, completion rate, and time-of-day performance, helping you identify what works best. Customizable widgets provide a quick overview of your habits without even opening the app.",
+    "size": 18,
+    "reviews": 9500,
+    "ratingAvg": 4.7,
+    "downloads": 1200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 350
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 6350
+      }
+    ]
+  }
+]
