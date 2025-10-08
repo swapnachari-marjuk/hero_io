@@ -7,18 +7,17 @@ import AppCard from "../Components/AppCard";
 const Home = () => {
   const { appData } = useAppData();
   const trendingApp = appData.slice(0, 8);
-  // console.log(trendingApp);
   return (
     <>
       <Banner />
-      <div className="bg-gray-100 p-10">
+      <div className="p-10">
         <h2 className="text-center text-5xl font-semibold my-5">
           Trending Apps
         </h2>
         <p className="text-center text-gray-500 ">
           Explore All Trending Apps on the Market developed by us
         </p>
-        <div className="grid lg:grid-cols-4 gap-8 py-10">
+        <div className="grid lg:grid-cols-4 gap-8 py-10 max-w-7xl mx-auto">
           {trendingApp.map((app) => (
             <AppCard key={app.id} app={app}></AppCard>
           ))}

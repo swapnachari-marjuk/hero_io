@@ -52,8 +52,8 @@ const Banner = () => {
           />
         </div>
       </div>
-      <div className="p-20 bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] text-white text-center space-y-6">
-        <h2 className="text-5xl font-semibold">
+      <div className="md:p-20 p-10 bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] text-white text-center space-y-6">
+        <h2 className="lg:text-5xl text-3xl font-semibold">
           Trusted by Millions, Built for You
         </h2>
         <div className="flex justify-center gap-7 flex-col md:flex-row">
