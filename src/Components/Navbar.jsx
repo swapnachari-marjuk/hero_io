@@ -49,7 +49,7 @@ const Navbar = () => {
           <Link
             to="https://github.com/swapnachari-marjuk"
             target="_blank"
-            className="btn bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)]"
+            className="btn text-white bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)]"
           >
             <GithubIcon /> Contributes
           </Link>

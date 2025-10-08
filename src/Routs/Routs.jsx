@@ -10,23 +10,23 @@ const router = createBrowserRouter([
     path: "/",
     Component: MainLayout,
     children: [
-        {
-            index: true,
-            Component: Home,
-        },
-        {
-            path:'/allApps',
-            Component: AllApps
-        },
-        {
-            path:'/installedApps',
-            Component: Installation
-        },
-        {
-          path: '/appDetails/:id',
-          Component: AppDetails
-        }
-    ]
+      {
+        index: true,
+        Component: Home,
+      },
+      {
+        path: "/allApps",
+        Component: AllApps,
+      },
+      {
+        path: "/installedApps",
+        Component: Installation,
+      },
+      {
+        path: "/appDetails/:id",
+        Component: AppDetails,
+      },
+    ],
   },
 ]);
 

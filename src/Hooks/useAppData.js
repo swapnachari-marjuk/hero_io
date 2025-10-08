@@ -11,7 +11,6 @@ const useAppData = () => {
       .then((data) => setAppData(data.data))
       .catch((err) => setError(err))
       .finally(() => setLoading(false));
-  
   }, []);
   return { appData, loading, error };
 };

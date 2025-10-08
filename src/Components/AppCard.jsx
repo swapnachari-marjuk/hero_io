@@ -3,9 +3,7 @@ import { Download, Star } from "lucide-react";
 import { Link } from "react-router";
 
 const AppCard = ({ app }) => {
-  const { image, title, ratingAvg, downloads,id } = app;
-//   const params = useParams()
-//   console.log(params);
+  const { image, title, ratingAvg, downloads, id } = app;
   return (
     <Link to={`/appDetails/${id}`}>
       <div className="card bg-base-100 shadow-sm hover:transform hover:scale-105 ease-linear duration-1000">

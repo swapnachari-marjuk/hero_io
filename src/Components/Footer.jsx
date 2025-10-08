@@ -49,7 +49,8 @@ const Footer = () => {
         </nav>
         <aside>
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by HERO.IO
+            Copyright © {new Date().getFullYear()} - All right reserved by
+            HERO.IO
           </p>
         </aside>
       </footer>

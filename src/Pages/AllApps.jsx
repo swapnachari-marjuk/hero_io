@@ -1,23 +1,23 @@
 import React, { useState } from "react";
 import useAppData from "../Hooks/useAppData";
 import AppCard from "../Components/AppCard";
+import LoadingPage from "./LoadingPage";
 
 const AllApps = () => {
-  const { appData } = useAppData();
+  const { appData, loading } = useAppData();
   const [search, setSearch] = useState("");
   const searchToUse = search.trim().toLowerCase();
-  // const nameToUse = appData.map(app=> app.title.trim().toLowerCase())
   const filteredApp = search
     ? appData.filter((app) =>
         app.title.trim().toLowerCase().includes(searchToUse)
       )
     : appData;
 
-  // const handleSearch = () =>{
-
-  // }
+      if(loading){
+        return <LoadingPage/>
+      }
   return (
-    <div className=" space-y-5 max-w-7xl mx-auto">
+    <div className=" space-y-5 max-w-7xl mx-auto py-10">
       <div className="text-center">
         <h2 className="font-bold text-4xl">Our All Applications</h2>
         <p className="text-xl text-gray-500">
@@ -25,7 +25,7 @@ const AllApps = () => {
         </p>
       </div>
       <div className="flex justify-between">
-        <h3 className="text-2xl font-bold">All Apps</h3>
+        <h3 className="text-2xl font-bold">All Apps ({filteredApp.length})</h3>
         <label className="input">
           <input
             value={search}
