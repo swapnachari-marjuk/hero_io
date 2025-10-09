@@ -1,16 +1,34 @@
-# React + Vite
+# 🦸‍♂️ Hero IO – React Assignment Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **demo project** I built as part of an assignment.  
+I created **fake JSON data** and fetched it to display dynamically across different pages in the UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech & Libraries Used
 
-## React Compiler
+- **React** & **React Router** – for building a smooth, component-based frontend  
+- **Tailwind CSS** – for modern and responsive styling  
+- **Toastify** – for toast notifications  
+- **DaisyUI** – ready-made UI components  
+- **Lucide Icons** – clean and minimal icons  
+- **Recharts** – for charts and visual data representation  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Some **interactive features** have been implemented to make the demo feel like a real project:  
+
+- **Install / Uninstall apps** – uses LocalStorage to simulate real installation behavior  
+- Installed apps will persist across pages, and will remain “installed” until uninstalled  
+
+> Note: These functionalities are **for demonstration purposes only**, and the data is fake.
+
+---
+
+## 👀 Check It Out
+
+You can see the project in action here:  
+
+🔗 [\[Netlify Live Link\](#)](https://hero-io-by-marjuk.netlify.app/)
