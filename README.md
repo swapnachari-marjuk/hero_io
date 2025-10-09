@@ -32,3 +32,5 @@ Some **interactive features** have been implemented to make the demo feel like a
 You can see the project in action here:  
 
 🔗 [\[Netlify Live Link\]](https://hero-io-by-marjuk.netlify.app/)
+
+🔗 [\[Alternative Live Link (Cloudflare)\]](https://hero-io-by-marjuk.pages.dev/)
