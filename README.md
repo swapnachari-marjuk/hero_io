@@ -31,4 +31,4 @@ Some **interactive features** have been implemented to make the demo feel like a
 
 You can see the project in action here:  
 
-🔗 [\[Netlify Live Link\](#)](https://hero-io-by-marjuk.netlify.app/)
+🔗 [\[Netlify Live Link\]](https://hero-io-by-marjuk.netlify.app/)
