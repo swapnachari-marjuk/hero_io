@@ -5,6 +5,7 @@ import { Download, Star, ThumbsUp } from "lucide-react";
 import BarComponents from "../Components/BarComponents";
 import { toast } from "react-toastify";
 import LoadingPage from "./LoadingPage";
+import AppError from "./ErrorPages/AppError";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -31,6 +32,10 @@ const AppDetails = () => {
   } = filteredApp || {};
   if (loading) {
     return <LoadingPage/>;
+  }
+
+  if (!filteredApp) {
+    return <AppError/>
   }
 
   const handleInstallBtn = () => {
