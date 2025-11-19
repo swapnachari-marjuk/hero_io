@@ -27,6 +27,25 @@ Some **interactive features** have been implemented to make the demo feel like a
 
 ---
 
+## 🏠 Run Locally
+
+1. **Clone the Repository**  
+   ```bash
+   git clone <repo-link>
+   
+2. **Navigate to the Project Folder**
+   ```bash
+   cd <project-folder>
+3. **Install Dependencies**
+   ```bash
+   npm install
+> This will install all required packages, including React, React Router, Tailwind CSS, Toastify, DaisyUI, Lucide Icons, and Recharts.
+
+4. **Start the Development Server**
+    ```bash
+   npm run dev
+---
+
 ## 👀 Check It Out
 
 You can see the project in action here:  
