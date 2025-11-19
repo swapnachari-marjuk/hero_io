@@ -1,6 +1,7 @@
 # 🦸‍♂️ Hero IO 
 
 This is a **demo project** to further improve my React skills.
+
 I created **fake JSON data** and fetched it to display dynamically across different pages in the UI.
 
 ---
