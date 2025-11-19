@@ -31,11 +31,11 @@ Some **interactive features** have been implemented to make the demo feel like a
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/swapnachari-marjuk/hero_io
    
 2. **Navigate to the Project Folder**
    ```bash
-   cd <project-folder>
+   cd hero_io
 3. **Install Dependencies**
    ```bash
    npm install
